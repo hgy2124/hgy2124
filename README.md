@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <br>
   
-  
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgy2124&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgy2124&layout=compact&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=marsh1024)](https://solved.ac/marsh1024/)
 
 ![hgy2124's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgy2124&show_icons=true&theme=radical)  
+</div>
+
+
 
 
